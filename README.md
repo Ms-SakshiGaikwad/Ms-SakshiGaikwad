@@ -17,34 +17,32 @@
 <br />
 
 <div align="center" >
-<img  src="https://github.com/mayur-argade/mayur-argade/blob/main/src/assest/Sunlight%20%7BLevi%20x%20Fem!Reader%7D%20-%2014_%20Deep%20Breaths.gif">
+<img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFncmJjYWJkbHJlMTJ0eGc1M3Z3ZHpka3h3c3FoejNwbG5iejN5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lebpnk3qVPAjBxIKKc/giphy.gif">
 </div>
 
 ## <img src="https://cdn3.emoji.gg/emojis/4297-pepe-hacker.gif" width='42' /> About me -
-👦 I'm a junior pursuing my bachelor's degree in computer engineering from Mumbai university.<br/>
-💻 I'm a Full-Stack JavaScript Developer with 1 year of project building experience.<br/>
-👩‍💻 Currently, I'm trying to learn Machine learning.<br/>
-✍ In my free time, I do sketching and write blogs. you can check out my blogs at [Hashnode](https://mayurargade.hashnode.dev/)<br/>
+👦 I'm Computer Engineer.<br/>
+💻 I'm a Software Developer with 1.7 year of project experience.<br/>
+👩‍💻 Currently, I'm trying to learn Data engineering skills to visualize big data with respect to make well decison.<br/>
+✍ In my free time, I enjoy reading self development books and like to voluteering <br/>
 📝 Have a look at my [resume](https://drive.google.com/file/d/1y8WHLil9m3aYaX91ZrhHdqNYCiMU-5kV/view?usp=drive_link) for more about me. <br/>
 
 <br />
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width='45' />Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/docs/getting-started.html)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) [![NodeJs](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)](https://reactjs.org/docs/getting-started.html) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://reactjs.org/docs/getting-started.html) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![MySql](https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQl&logoColor=ffdd54)
+   ![Apache Spark](https://img.shields.io/badge/Apachespark-3670A0?style=for-the-badge&logo=ApacheSpark&logoColor=ffdd54)
+    ![Databricks](https://img.shields.io/badge/Databricks-3670A0?style=for-the-badge&logo=Databricks&logoColor=ffdd54)
+    ![Hive](https://img.shields.io/badge/Hive-3670A0?style=for-the-badge&logo=Hive&logoColor=ffdd54)
 
 <br />
 
-## <img src="https://cdn3.emoji.gg/emojis/7667-pikachuspinnyhat.gif" width='48' />Projects 
-<div>
-  <p>
-    <a href="https://github.com/mayur-argade/Lakshya">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=mayur-argade&repo=Lakshya" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/mayur-argade/Event-management-portal">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=mayur-argade&repo=Event-management-portal" alt="GitHub Stats" />
-    </a>
-  </p>
+## <img src="https://media3.giphy.com/media/mAJXcr1kTuVvExyj2q/giphy.gif?cid=6c09b952tccdl5atu17png3vt9i9nt0an9g59lda2vn768f2&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width='48' />CERTIFICATIONS
+<div align="Left" >
+ <img  src="https://uploads-ssl.webflow.com/627415c27c7f72741ba163f9/63188c97fbd0a646ced923da_microsoft-azure-fundamentals-official-training-certification.png" width="100px">
+  <img  src="https://media.dev.to/cdn-cgi/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxxjxdjk3gjquokl8euzu.png" width="100px">
+  <img  src="https://theeduplus.com/wp-content/uploads/2022/12/azure-data-engineer-associate-600x600-1.png" width="100px">
+  <img  src="https://miro.medium.com/v2/resize:fit:369/1*LkbOtaZvYKHVwDV8E0MmDA.png" width="100px">
+</div>
 
-### Currently working project 
-#### 👉[Talkstation](https://github.com/mayur-argade/Talkstation) - Real time voice chat application.
