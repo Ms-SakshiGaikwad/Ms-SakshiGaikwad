@@ -25,7 +25,7 @@
 💻 I'm a Software Developer with 1.7 year of project experience.<br/>
 👩‍💻 Currently, I'm trying to learn Data engineering skills to visualize big data with respect to make well decison.<br/>
 ✍ In my free time, I enjoy reading self development books and like to voluteering <br/>
-📝 Have a look at my [resume](https://drive.google.com/file/d/1y8WHLil9m3aYaX91ZrhHdqNYCiMU-5kV/view?usp=drive_link) for more about me. <br/>
+📝 Have a look at my [resume](https://drive.google.com/drive/folders/1iHtC38mhfXu80bXfKpQaUpmIpvsS0LC3) for more about me. <br/>
 
 <br />
 
